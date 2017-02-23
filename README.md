@@ -26,7 +26,7 @@ A webpage (using HTML, CSS, Bootstrap, JavaScript, and jQuery) that asks users t
   * Input Example: 190
   * Output Example: CXC
   * Input Example: 1,098
-  * Output Example: MIIC.
+  * Output Example: MXCVII
 
 ## Technology Used To Create Portfolio
 HTML, CSS, JavaScript, and jQuery.
